@@ -191,6 +191,21 @@ footer {
   color: #2b2b2b;
 }
 
+.participant-remove {
+  margin-left: auto;
+  background: none;
+  border: none;
+  color: #c62828;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.participant-remove:hover {
+  background: rgba(198,40,40,0.06);
+}
+
 .participants-empty {
   font-style: italic;
   color: #666;
